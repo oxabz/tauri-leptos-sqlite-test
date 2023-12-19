@@ -1,0 +1,5 @@
+/src
+/public
+/Cargo.toml
+**/test.db
+test.db
